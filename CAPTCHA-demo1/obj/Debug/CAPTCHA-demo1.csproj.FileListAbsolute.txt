@@ -1,0 +1,10 @@
+C:\Users\王兴民\AppData\Local\Temporary Projects\CAPTCHA-demo1\bin\Debug\CAPTCHA-demo1.exe.config
+d:\我的文档\Documents\Visual Studio 2015\Projects\CAPTCHA-demo1\CAPTCHA-demo1\bin\Debug\CAPTCHA-demo1.exe.config
+d:\我的文档\Documents\Visual Studio 2015\Projects\CAPTCHA-demo1\CAPTCHA-demo1\bin\Debug\CAPTCHA-demo1.exe
+d:\我的文档\Documents\Visual Studio 2015\Projects\CAPTCHA-demo1\CAPTCHA-demo1\bin\Debug\CAPTCHA-demo1.pdb
+d:\我的文档\Documents\Visual Studio 2015\Projects\CAPTCHA-demo1\CAPTCHA-demo1\obj\Debug\CAPTCHA-demo1.csprojResolveAssemblyReference.cache
+d:\我的文档\Documents\Visual Studio 2015\Projects\CAPTCHA-demo1\CAPTCHA-demo1\obj\Debug\CAPTCHA_demo1.Form1.resources
+d:\我的文档\Documents\Visual Studio 2015\Projects\CAPTCHA-demo1\CAPTCHA-demo1\obj\Debug\CAPTCHA_demo1.Properties.Resources.resources
+d:\我的文档\Documents\Visual Studio 2015\Projects\CAPTCHA-demo1\CAPTCHA-demo1\obj\Debug\CAPTCHA-demo1.csproj.GenerateResource.Cache
+d:\我的文档\Documents\Visual Studio 2015\Projects\CAPTCHA-demo1\CAPTCHA-demo1\obj\Debug\CAPTCHA-demo1.exe
+d:\我的文档\Documents\Visual Studio 2015\Projects\CAPTCHA-demo1\CAPTCHA-demo1\obj\Debug\CAPTCHA-demo1.pdb
